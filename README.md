@@ -1,5 +1,4 @@
-## AWS Glue Catalog - Athena
-Final Assignment
+## AWS Glue Catalog / Athena - Final Assignment
 
 #### S3 Bucket
 devopslatam02-datacatalog-mpavesio
