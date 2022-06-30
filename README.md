@@ -1,6 +1,7 @@
 ## Final Assignment
 #### Martín Pavesio
-AWS Glue Catalog / Athena - JalaSoft DevOps Bootcamp
+AWS Glue Catalog / Athena 
+JalaSoft DevOps Bootcamp
 
 ### Resources
 #### S3 Bucket
