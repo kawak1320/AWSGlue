@@ -1,4 +1,6 @@
 ## AWS Glue Catalog / Athena - Final Assignment
+#Martín Pavesio
+JalaSoft DevOps Bootcamp
 
 #### S3 Bucket
 devopslatam02-datacatalog-mpavesio
